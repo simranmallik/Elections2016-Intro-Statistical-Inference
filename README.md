@@ -1,1 +1,1 @@
-# Elections2016QTM100Project
+# Elections2016 - Intro Statistical Inference Final Project
